@@ -19,7 +19,7 @@ It's meant to be look good on desktops, tablets, and mobile devices.
 
 ## Setup
 1. Clone the project:
-```git clone https://github.com/coed95/todo-list.git```
+```git clone git@github.com:parikhitm/Homepage.git```
 
 2. Install the required dependencies:
 ```npm install```
@@ -29,3 +29,5 @@ It's meant to be look good on desktops, tablets, and mobile devices.
 
 4. Run files distribution:
 ```npm run build```
+
+## [Live Version](https://parikhitm.github.io/Homepage/)
